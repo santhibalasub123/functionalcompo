@@ -1,0 +1,21 @@
+.reg-container {
+    height: 100%;
+    width: 100%;
+}
+
+.btn1 {
+        
+    background-color: yellow;
+    border-radius:84px;
+    color: white;
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left:150px;
+
+
+}

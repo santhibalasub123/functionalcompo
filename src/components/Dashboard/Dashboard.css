@@ -1,0 +1,27 @@
+
+.btn{
+    background-color: rgb(255, 140, 0);
+    text-align:center;
+     margin-left:70px;
+     padding:1px;
+     width: 100px;
+}
+.btnsearch
+{
+
+    background-color: rgb(219, 19, 19);
+    text-align:center;
+     margin-left:70px;
+     padding:1px;
+     width: 100px;
+}
+.btnreset
+{
+    
+    background-color: rgb(96, 19, 219);
+    text-align:center;
+     margin-left:70px;
+     padding:2px;
+     width: 100px;
+}
+
